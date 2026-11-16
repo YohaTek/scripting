@@ -2,7 +2,7 @@
 
 #this is simple demo on implementation of args depenedent execusion of a script.
 
-#the $@ is list of arguments provided when executing the script,./script.sh arg_1 arg_2 arg_3 
+#the $@ is list of arguments provided when executing the script,./arguments_demo.sh arg_1 arg_2 arg_3 
 
 
 
