@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "enter numebr"
+echo "enter number"
 
 read num
 

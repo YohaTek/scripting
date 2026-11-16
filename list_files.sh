@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "printing files in the current direcotry"
+echo "printing files in the current directory"
 
 for  i in *
 do
